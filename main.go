@@ -15,11 +15,17 @@ func main() {
 
 	router := &gineng.Router{}
 
+	all := &server.Group{}
+
+	all.Cond(func(c interfaces.Controller) bool {
+		return true
+	})
+
 	router.AddRoute(methods.GET, "/say-hello", func(c interfaces.Controller) {
 		c.Res().JSON(http.StatusOK, map[string]any{
 			"msg": "Hello Guys",
 		})
-	})
+	}, all)
 
 	server := server.New(engine, router)
 
