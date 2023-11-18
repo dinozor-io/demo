@@ -4,9 +4,9 @@ go 1.20
 
 require (
 	github.com/dinozor-io/consts v0.0.0-20231117120726-5c8cd3ad877b
-	github.com/dinozor-io/gineng v0.0.0-20231117170220-33b9bba83a43
+	github.com/dinozor-io/gineng v0.0.0-20231118200411-d1e9d94fa30f
 	github.com/dinozor-io/interfaces v0.0.0-20231117133454-5245e871e389
-	github.com/dinozor-io/server v0.0.0-20231117165420-477c45eee8b0
+	github.com/dinozor-io/server v0.0.0-20231118200451-f0daacf87c42
 )
 
 require (

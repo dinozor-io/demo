@@ -13,7 +13,7 @@ func main() {
 
 	engine := &gineng.Engine{}
 
-	router := &gineng.Router{}
+	router := &server.Router{}
 
 	all := &server.Group{}
 

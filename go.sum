@@ -16,10 +16,14 @@ github.com/dinozor-io/consts v0.0.0-20231117120726-5c8cd3ad877b h1:SdsSmcWierthk
 github.com/dinozor-io/consts v0.0.0-20231117120726-5c8cd3ad877b/go.mod h1:AgXPGddGIjCySuQYfuGcs3mV+07l+qsxIrs3lKEdtlA=
 github.com/dinozor-io/gineng v0.0.0-20231117170220-33b9bba83a43 h1:HpTpklp+YwmSqUlzAL/MmQebJNN6jYDvlCNd7Tp8dRI=
 github.com/dinozor-io/gineng v0.0.0-20231117170220-33b9bba83a43/go.mod h1:Xsr+HosFcnrCpaM70UgTw+DZaFwOSUAsEslCxJiqMjE=
+github.com/dinozor-io/gineng v0.0.0-20231118200411-d1e9d94fa30f h1:+8eJENsUI90Fpmd7J89JsW5wifggfo+L8iLMZ/zgcsY=
+github.com/dinozor-io/gineng v0.0.0-20231118200411-d1e9d94fa30f/go.mod h1:Xsr+HosFcnrCpaM70UgTw+DZaFwOSUAsEslCxJiqMjE=
 github.com/dinozor-io/interfaces v0.0.0-20231117133454-5245e871e389 h1:WjybO5BxtHcuxbcjoliuQieOCiz6ZBXf78zPjHxN6Do=
 github.com/dinozor-io/interfaces v0.0.0-20231117133454-5245e871e389/go.mod h1:dY9l9Jds6kAlPDWtSBB2BFjDDzLEK1LkgmcgAWrP8CI=
 github.com/dinozor-io/server v0.0.0-20231117165420-477c45eee8b0 h1:yh+xJKARqOuIt1DYoYR3Vygu3dKc1uh0lmSqKm777ls=
 github.com/dinozor-io/server v0.0.0-20231117165420-477c45eee8b0/go.mod h1:Ryl6lZvZwkdIwLnBByxFyX47f2KftE5LljdgBxrIXRE=
+github.com/dinozor-io/server v0.0.0-20231118200451-f0daacf87c42 h1:y6YG5cgHsh6O+2nufuhpa8t+UCPkbPFm1FrNgHZDrCk=
+github.com/dinozor-io/server v0.0.0-20231118200451-f0daacf87c42/go.mod h1:Ryl6lZvZwkdIwLnBByxFyX47f2KftE5LljdgBxrIXRE=
 github.com/gabriel-vasile/mimetype v1.4.3 h1:in2uUcidCuFcDKtdcBxlR0rJ1+fsokWf+uqxgUFjbI0=
 github.com/gabriel-vasile/mimetype v1.4.3/go.mod h1:d8uq/6HKRL6CGdk+aubisF/M5GcPfT7nKyLpA0lbSSk=
 github.com/gin-contrib/sse v0.1.0 h1:Y/yl/+YNO8GZSjAhjMsSuLt29uWRFHdHYUb5lYOV9qE=
